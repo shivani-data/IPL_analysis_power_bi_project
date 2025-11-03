@@ -1,4 +1,4 @@
-🏏IPL Analysis Dashboard (2008–2025) — Power BI Project
+<B>🏏IPL Analysis Dashboard (2008–2025) — Power BI Project/B>
 
 📘 Overview
 
