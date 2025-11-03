@@ -1,5 +1,7 @@
 <B><I>🏏IPL Analysis Dashboard (2008–2025) — Power BI Project/B></I>
 
+<img src = "Power_BI_project_IPL_dashboard.png">
+
 📘 Overview - 
 This Power BI dashboard provides a comprehensive analysis of Indian Premier League (IPL) data from 2008 to 2025.
 It highlights key insights such as champions, top-performing players, team statistics, and season trends, helping cricket fans and analysts explore the IPL’s evolution through interactive visuals.
