@@ -1,4 +1,4 @@
-<B><I>🏏IPL Analysis Dashboard (2008–2025) — Power BI Project/B></I>
+<B><I>🏏IPL Analysis Dashboard (2008–2025) — Power BI Project</B></I>
 
 <img src = "Power_BI_project_IPL_dashboard.png">
 
